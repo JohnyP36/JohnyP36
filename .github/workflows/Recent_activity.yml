@@ -19,4 +19,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_facts: no
+          plugin_habits_trim: no        # Trim unused hours on daily chart
+#         plugin_habits_from: 200       # Use 200 events to compute habits
+#         plugin_habits_days: 14        # Keep only events from last 14 days
           config_timezone: Europe/Paris
