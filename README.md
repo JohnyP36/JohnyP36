@@ -22,8 +22,9 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="400">
         <img src="/.github/src/github-metrics.svg" alt="Metrics" width="400"></img>
+        <img src="/.github/src/github-metrics2.svg" alt="Extra Metrics"></img>
     </td>
     <td align="center">
         <img src="/.github/src/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="400"></img>
