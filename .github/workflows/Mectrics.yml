@@ -8,7 +8,7 @@ on:
   push: 
     branches: ["main"]
     paths:
-    - ".github/src/*"
+     - .github/src/*
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
