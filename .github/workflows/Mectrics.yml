@@ -7,8 +7,6 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: 
     branches: ["main"]
-    paths:
-     - .github/src/*
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -16,3 +14,4 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: .github/src/github-metrics.svg
