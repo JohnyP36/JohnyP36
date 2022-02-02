@@ -5,7 +5,10 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["main"]}
+  push: 
+    branches: ["main"]
+    paths:
+    - "*/.github/src/*"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
