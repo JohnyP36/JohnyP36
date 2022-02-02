@@ -7,15 +7,13 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: 
     branches: ["main"]
-    paths:
-     - .github/src/*
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.reactions.svg
+          filename: .github/src/metrics.plugin.reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_reactions: yes
