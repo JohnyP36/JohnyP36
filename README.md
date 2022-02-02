@@ -25,22 +25,21 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 <table>
   <tr>
     <td align="center">
-        <img src="/github-metrics.svg" alt="Metrics" width="400"></img>
+        <img src="/.github/src/github-metrics.svg" alt="Metrics" width="400"></img>
     </td>
     <td align="center">
-        <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="400"></img>
+        <img src="/.github/src/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" width="400"></img>
     </td>
   </tr>
     <td>
-       <img src="/metrics.plugin.languages.indepth.svg" width="400"></img>
+       <img src="/.github/src/metrics.plugin.languages.indepth.svg" alt="Languages" width="400"></img>
     </td>
     <td>
-       <img src="/metrics.plugin.reactions.svg width="400"></img>
+       <img src="/.github/src/metrics.plugin.reactions.svg alt="Reactions" width="400"></img>
     </td>
 </table>
 
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer&desc=Please%20Support%20Me!&animation=twinkling&fontColor=5e5e5e)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
 
 <!---
 JohnyP36/JohnyP36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
