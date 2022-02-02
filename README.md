@@ -18,7 +18,7 @@ My username is @JohnyP36, and below you can read the main points of me and the r
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyP36&layout=compact&langs_count=10" />
 </a> --->
 
-[![JohnyP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private=true&include_all_commits=1&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=DE3686&border_color=FF3B3B&bg_color=333333)]() <br>
+[![JohnyP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private=true&include_all_commits=0&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=DE3686&border_color=FF3B3B&bg_color=333333)]() <br>
 
 <table align="center">
   <tr>
