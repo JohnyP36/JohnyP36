@@ -35,7 +35,7 @@ My username is @JohnyP36, and below you can read the main points of me and the r
        <img src="/.github/src/metrics.plugin.languages.indepth.svg" alt="Languages" width="400"></img>
     </td>
     <td>
-       <img src="/.github/src/metrics.plugin.reactions.svg alt="Reactions" width="400"></img>
+       <img src="/.github/src/metrics.plugin.reactions.svg" alt="Reactions" width="400"></img>
     </td>
 </table>
 
