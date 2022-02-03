@@ -55,13 +55,13 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=JohnyP36&theme=github&custom_title=My%20Contribution%20Graph%20(in%20the%20last%2031%20days))]() <br>
 <!--[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyP36&layout=compact&langs_count=10")]() <br> -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=header&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
+<!--[![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW) -->
 
 <p align="center">
 <img src="/.github/src/metrics.plugin.skyline.svg" alt="Skyline Activity"></img>
 </p>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28&descAlignY=35)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=125&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28&descAlignY=100&rotate=10&descAlign=25&text=Please%20Support%20Me!&fontSize=28&fontAlign=75&fontAlignY=40)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
 <!---
 JohnyP36/JohnyP36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
