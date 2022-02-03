@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "5 0 * * 1,2,3,4,5,6"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -23,3 +23,49 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.languages.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+#         plugin_languages_ignored: >-
+#           html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+#           gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 20
+#         plugin_languages_analysis_timeout: 15
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.followup.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 1000
+          plugin_reactions_details: percentage
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2021
+          plugin_skyline_frames: 110
+          plugin_skyline_quality: 0.8
+          plugin_skyline_compatibility: no
