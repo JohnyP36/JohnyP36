@@ -14,7 +14,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.skyline.svg
-#         token: NOT_NEEDED
+          token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2021
