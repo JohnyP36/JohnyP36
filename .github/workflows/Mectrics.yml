@@ -21,4 +21,5 @@ jobs:
           filename: .github/src/github-metrics2.svg
           base: repositories, metadata
           plugin_lines: yes
+          plugin_traffic: yes
           token: ${{ secrets.METRICS_TOKEN }}
