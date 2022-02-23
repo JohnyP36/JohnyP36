@@ -1,4 +1,5 @@
-## Hi there 👋 
+## Hi there 👋  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnyP36&label=Profile%20views&color=lightgrey&style=flat" alt="JohnyP36" /> </p>
 My username is @JohnyP36, and below you can read the main points of me and the reasons why I'm on Github.
 
 - 👀 I’m interested in code
@@ -10,6 +11,7 @@ My username is @JohnyP36, and below you can read the main points of me and the r
     - *You can open issues, PR's and in some occassions a discussion in one of my [repositories](https://github.com/JohnyP36?tab=repositories)*
 
 ---
+
 ### All my Statistics 🤖 📊
 <!--- <a href="https://github.com/JohnyP36">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private=true&include_all_commits=true&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=D93A7C&border_color=FF3B3B" />
@@ -25,6 +27,9 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 </p>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28&descAlignY=100&rotate=10&descAlign=25&text=Please%20Support%20Me!&fontSize=28&fontAlign=75&fontAlignY=30)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
+
+---
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnyP36" alt="JohnyP36" /></a> </p>
 
 ---
 
