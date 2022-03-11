@@ -46,10 +46,10 @@ My username is @JohnyP36, and below you can read the main points of me and the r
   </tr>
   <tr>
     <td align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyP36&layout=compact&langs_count=10" alt="Top Languages" width="400"></img>
+       <img src="/.github/src/metrics.plugin.languages.indepth.svg" alt="Languages" width="400"></img>
     </td>
     <td align="center">
-       <img src="/.github/src/metrics.plugin.languages.indepth.svg" alt="Languages" width="400"></img>
+       <img src="/.github/src/metrics.plugin.languages.recently-used.svg" alt="Languages" width="400"></img>
     </td>
   </tr>
   <tr>
@@ -74,6 +74,8 @@ My username is @JohnyP36, and below you can read the main points of me and the r
     </td>
 </table>
 
+</details>
+
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=JohnyP36&theme=github&custom_title=My%20Contribution%20Graph%20(in%20the%20last%2031%20days))]() <br>
 <!--[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyP36&layout=compact&langs_count=10")]() <br> -->
 <!--[![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW) -->
@@ -81,8 +83,6 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 <p align="center">
 <img src="/.github/src/metrics.plugin.skyline.svg" alt="Skyline Activity"></img>
 </p>
-
-</details>
 
 <!---
 JohnyP36/JohnyP36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
