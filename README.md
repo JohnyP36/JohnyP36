@@ -32,7 +32,9 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnyP36" alt="JohnyP36" /></a> </p>
 
 ---
+<details><summary>Detailed statistics</summary> 
 
+    
 <table align="center">
   <tr>
     <td align="center" width="400">
@@ -64,6 +66,13 @@ My username is @JohnyP36, and below you can read the main points of me and the r
        <img src="/.github/src/metrics.plugin.reactions.svg" alt="Reactions" width="400"></img>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+        <img src=".github/src/metrics.plugin.starlists.languages.svg" alt="Featured star list languages" width="400"></img> 
+    </td>
+    <td align="center">
+        <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" width="400"></img>
+    </td>
 </table>
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=JohnyP36&theme=github&custom_title=My%20Contribution%20Graph%20(in%20the%20last%2031%20days))]() <br>
@@ -73,6 +82,8 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 <p align="center">
 <img src="/.github/src/metrics.plugin.skyline.svg" alt="Skyline Activity"></img>
 </p>
+
+</details>
 
 <!---
 JohnyP36/JohnyP36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
