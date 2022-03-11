@@ -32,7 +32,7 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnyP36" alt="JohnyP36" /></a> </p>
 
 ---
-<details><summary><h3><i>Detailed statistics</i></h3></summary> 
+<details><summary><i><h3>Detailed statistics</h3> <a href="https://metrics.lecoq.io/about/JohnyP36"> Metrics Insights v3.21.0 </a></i></summary> 
 
 <table align="center">
   <tr>
