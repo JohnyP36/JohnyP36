@@ -12,7 +12,7 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 
 ---
 
-### All my Statistics 🤖 📊
+### All my Statistics 📊
 <!--- <a href="https://github.com/JohnyP36">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private=true&include_all_commits=true&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=D93A7C&border_color=FF3B3B" />
 </a>
@@ -32,9 +32,8 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnyP36" alt="JohnyP36" /></a> </p>
 
 ---
-<details><summary>Detailed statistics</summary> 
+<details><summary><h3><i>Detailed statistics</i></h3></summary> 
 
-    
 <table align="center">
   <tr>
     <td align="center" width="400">
