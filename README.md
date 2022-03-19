@@ -1,5 +1,5 @@
 ## Hi there 👋  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnyP36&label=Profile%20views&color=lightgrey&style=flat" alt="JohnyP36" /> </p>
+<p align="left"> <a href="https://komarev.com/ghpvc/?username=JohnyP36&label=Profile%20views&color=lightgrey&style=flat"> <img src="https://komarev.com/ghpvc/?username=JohnyP36&label=Profile%20views&color=lightgrey&style=flat" alt="JohnyP36"/></a> </p>
 My username is @JohnyP36, and below you can read the main points of me and the reasons why I'm on Github.
 
 - 👀 I’m interested in code
