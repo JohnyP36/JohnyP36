@@ -19,9 +19,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/github-metrics2.svg
-          base: repositories, metadata
+          base: repositories, discussions, metadata
           plugin_lines: yes
           plugin_traffic: yes
+          plugin_discussions: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
@@ -58,6 +59,18 @@ jobs:
           plugin_languages_limit: 20
           plugin_languages_recent_categories: data, markup, programming, prose
           plugin_languages_recent_days: 31
+      - uses: lowlighter/metrics@master
+        with:
+          filename: .github/src/metrics.plugin.habits.charts.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 300       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: no       # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: no        # Trim unused hours on daily chart
+          config_timezone: Europe/Paris # Set timezone
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.followup.indepth.svg
