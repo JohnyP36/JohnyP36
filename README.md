@@ -86,7 +86,7 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 </p>
 
 <p align="center">
-[Github Unwrapped 2022](https://user-images.githubusercontent.com/81161435/212843055-9f879454-7992-4997-a2e1-f3494f9cbf05.mp4)
+ <a href="https://user-images.githubusercontent.com/81161435/212843055-9f879454-7992-4997-a2e1-f3494f9cbf05.mp4">Github Unwrapped 2022</a>
 </p>
 
 <!---
