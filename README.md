@@ -30,7 +30,7 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28&descAlignY=100&rotate=10&descAlign=25&text=Please%20Support%20Me!&fontSize=28&fontAlign=75&fontAlignY=30)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
 
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnyP36" alt="JohnyP36" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnyP36&column=-1&theme=flat" alt="JohnyP36" /></a> </p>
 
 ---
 <details><summary><i><h3>Detailed statistics</h3> <a href="https://metrics.lecoq.io/about/JohnyP36"> Metrics Insights v3.21.0 </a></i></summary> 
