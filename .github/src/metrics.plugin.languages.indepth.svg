@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 132mb of code in 6421 edited files across 4136 commits</small>
+                <small>estimation from 132mb of code in 6431 edited files across 4146 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.55608575901417" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="205.55608575901417" y="0" width="124.57442800813722" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="330.13051376715134" y="0" width="35.57637301766694" height="8" fill="#800000"/>
-                    <rect mask="url(#languages-bar)" x="365.7068867848183" y="0" width="28.812818645302258" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="394.51970543012055" y="0" width="23.477967255750613" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="417.9976726858712" y="0" width="17.824770547476927" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="435.8224432333481" y="0" width="15.333204968285463" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="451.1556482016336" y="0" width="8.844351798366414" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.03313691488503" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="205.03313691488503" y="0" width="124.25750208062526" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="329.2906389955103" y="0" width="35.546042358468775" height="8" fill="#800000"/>
+                    <rect mask="url(#languages-bar)" x="364.83668135397903" y="0" width="28.96998611060854" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="393.8066674645876" y="0" width="23.418237689517824" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="417.2249051541054" y="0" width="17.779423103151693" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="435.0043282572571" y="0" width="15.778181686600774" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="450.78250994385786" y="0" width="9.21749005614209" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@
                             <small>
                                 <div>1.60k lines</div>
                                 <div>160 kB</div>
-                                <div>44.69%</div>
+                                <div>44.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -56,7 +56,7 @@
                             <small>
                                 <div>2.44k lines</div>
                                 <div>97 kB</div>
-                                <div>27.08%</div>
+                                <div>27.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -67,7 +67,7 @@
                                 Adblock Filter List
                             </div>
                             <small>
-                                <div>471 lines</div>
+                                <div>472 lines</div>
                                 <div>27.7 kB</div>
                                 <div>7.73%</div>
                             </small>
@@ -80,9 +80,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>877 lines</div>
-                                <div>22.4 kB</div>
-                                <div>6.26%</div>
+                                <div>883 lines</div>
+                                <div>22.6 kB</div>
+                                <div>6.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -95,7 +95,7 @@
                             <small>
                                 <div>650 lines</div>
                                 <div>18.2 kB</div>
-                                <div>5.1%</div>
+                                <div>5.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -119,9 +119,9 @@
                                 YAML
                             </div>
                             <small>
-                                <div>505 lines</div>
-                                <div>11.9 kB</div>
-                                <div>3.33%</div>
+                                <div>516 lines</div>
+                                <div>12.3 kB</div>
+                                <div>3.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -132,9 +132,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>145 lines</div>
-                                <div>6.89 kB</div>
-                                <div>1.92%</div>
+                                <div>157 lines</div>
+                                <div>7.20 kB</div>
+                                <div>2%</div>
                             </small>
                         </div>
                     </section>
