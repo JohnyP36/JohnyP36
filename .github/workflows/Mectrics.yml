@@ -96,17 +96,17 @@ jobs:
           plugin_starlists_limit_languages: disable
           plugin_starlists_limit: 3
           plugin_starlists_limit_repositories: 3
-      - uses: lowlighter/metrics@latest
-        with: 
-          filename: .github/src/metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-#          plugin_achievements_only: >-
-#            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-#            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
+#      - uses: lowlighter/metrics@latest
+#        with: 
+#          filename: .github/src/metrics.plugin.achievements.compact.svg
+#          token: ${{ secrets.METRICS_TOKEN }}
+#          base: ""
+#          plugin_achievements: yes
+##          plugin_achievements_only: >-
+##            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+##            scripter, packager, explorer, infographile, manager
+#          plugin_achievements_display: detailed
+#          plugin_achievements_threshold: C
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.skyline.svg
