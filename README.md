@@ -5,9 +5,10 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 
 - 👀 I’m interested in code
 - 🌱 I’m currently learning how to make my own web extension [YT-Nonstop](https://github.com/JohnyP36/YT-Nonstop)
-    - *I would be pleased if you looked into my code and helped me with the problems I mentioned in the `Read.me`* 
-- 💞️ I’m like to collaborate on the uBlock extension and their filter lists. 
-- 🔗 I also have and maintain my own supplement on EasyList called [Dutch Filter List](https://github.com/JohnyP36/Personal-List)
+    - ~*I would be pleased if you looked into my code and helped me with the problems I mentioned in the `Read.me`*~ 
+- 💞️ I like collaborating on the uBlock extension and their filter lists. 
+- 🔗 I also have and maintain my own supplement on EasyList called [Dutch Filter List](https://github.com/JohnyP36/Personal-List) -- *[Subscribe here](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/JohnyP36/Personal-List/cdn-page/Dutch%20Filter%20List%20(uBo).txt&title=Dutch%20Filter%20List)*
+- 💻 Using [Github pages](https://johnyp36.github.io/) I run my own website
 - 📫 How to reach me...
     - *You can open issues, PR's and in some occassions a discussion in one of my [repositories](https://github.com/JohnyP36?tab=repositories)*
 
