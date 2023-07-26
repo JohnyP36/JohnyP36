@@ -96,7 +96,7 @@ jobs:
           plugin_starlists_limit_languages: disable
           plugin_starlists_limit: 3
           plugin_starlists_limit_repositories: 3
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with: 
           filename: .github/src/metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
