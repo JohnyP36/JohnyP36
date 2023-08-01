@@ -15,15 +15,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: .github/src/github-metrics.svg
-          base: header, activity, community
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: .github/src/github-metrics2.svg
-          base: repositories, discussions, metadata
+          base: header, activity, community, repositories, discussions, metadata
+          base_indepth: yes
           plugin_lines: yes
           plugin_traffic: yes
           plugin_discussions: yes
-          token: ${{ secrets.METRICS_TOKEN }}
+          repositories_forks: yes
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.isocalendar.fullyear.svg
