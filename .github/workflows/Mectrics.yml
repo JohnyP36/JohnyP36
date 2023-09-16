@@ -104,7 +104,7 @@ jobs:
 #            scripter, packager, explorer, infographile, manager
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           filename: .github/src/metrics.plugin.skyline.svg
           token: NOT_NEEDED
