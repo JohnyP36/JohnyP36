@@ -11,25 +11,25 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    20 Languages
+                    19 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 167mb of code in 7997 edited files across 4681 commits</small>
+                <small>estimation from 167mb of code in 8007 edited files across 4687 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.82133248617578" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="182.82133248617578" y="0" width="126.50468087641096" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="309.3260133625867" y="0" width="38.297560781899946" height="8" fill="#800000"/>
-                    <rect mask="url(#languages-bar)" x="347.62357414448667" y="0" width="32.88372762560931" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="380.50730177009603" y="0" width="24.33370727397274" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="404.84100904406876" y="0" width="20.881275501593386" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="425.72228454566215" y="0" width="17.827289062732678" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="443.54957360839484" y="0" width="16.4504263916052" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.80681378242352" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="182.80681378242352" y="0" width="126.49463454341503" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="309.3014483258386" y="0" width="38.331050160318455" height="8" fill="#800000"/>
+                    <rect mask="url(#languages-bar)" x="347.63249848615703" y="0" width="32.8811161737991" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="380.51361465995615" y="0" width="24.3317748195797" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="404.84538947953587" y="0" width="20.879617221080636" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="425.72500670061646" y="0" width="17.82587331367819" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.5508800142947" y="0" width="16.44911998570535" height="8" fill="#083fa1"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -67,7 +67,7 @@
                                 Adblock Filter List
                             </div>
                             <small>
-                                <div>565 lines</div>
+                                <div>566 lines</div>
                                 <div>33.5 kB</div>
                                 <div>8.33%</div>
                             </small>
