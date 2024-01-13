@@ -16,16 +16,14 @@ My username is @JohnyP36, and below you can read the main points of me and the r
 
 ### All my Statistics 📊
 <!--- <a href="https://github.com/JohnyP36">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private=true&include_all_commits=true&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=D93A7C&border_color=FF3B3B" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=D93A7C&border_color=FF3B3B" />
 </a>
 <a href="https://github.com/JohnyP36">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyP36&layout=compact&langs_count=10" />
 </a> --->
 
-<!--[![JohnyP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private=true&include_all_commits=true&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=DE3686&border_color=FF3B3B&bg_color=333333)]() <br> -->
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_privatefalse&include_all_commits=true&show=reviews&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=DE3686&border_color=FF3B3B&bg_color=333333" alt="JohnyP's GitHub Stats"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=JohnyP36&show_icons=true&count_private&include_all_commits=true&show=reviews,prs_merged_percentage&theme=aura&border_radius=50px&custom_title=All%20My%20Stats%20in%20a%20Nutshell&title_color=1FD7FE&ring_color=DE3686&border_color=FF3B3B&bg_color=333333" alt="JohnyP's GitHub Stats"></img>
 </p>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&desc=Please%20Support%20Me!&animation=blinking&fontColor=5e5e5e&descSize=28&descAlignY=100&rotate=10&descAlign=25&text=Please%20Support%20Me!&fontSize=28&fontAlign=75&fontAlignY=30)](https://www.paypal.com/donate?hosted_button_id=8BBT5V55TGVXW)
