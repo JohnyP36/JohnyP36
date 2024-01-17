@@ -1,5 +1,6 @@
 ## Hi there 👋  
-My username is @JohnyP36, and below you can read the main points of me and the reasons why I'm on Github.
+<!-- My username is @JohnyP36, and below you can read the main points of me and the reasons why I'm on Github. -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Salsa&size=20&pause=500&color=207222B8&background=FFFFFFB7&vCenter=true&random=false&width=880&height=30&lines=My+username+is+%40JohnyP36;Below+you+can+read+the+main+points+of+me+and+the+reasons+why+I'm+on+Github." alt="Typing SVG" /></a>
 <p align="left"> <a href="https://komarev.com/ghpvc/?username=JohnyP36&label=Profile%20views&color=lightgrey&style=flat"> <img src="https://komarev.com/ghpvc/?username=JohnyP36&label=Profile%20views&color=lightgrey&style=flat" alt="JohnyP36"/></a> </p>  
 <p>Visitor number: <img src="https://profile-counter.glitch.me/JohnyP36/count.svg"></img></p>
 
