@@ -22,13 +22,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.6030671415536" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="198.6030671415536" y="0" width="153.30850969887854" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="351.91157684043213" y="0" width="38.99973508374297" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="390.9113119241751" y="0" width="24.78662467253407" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="415.69793659670916" y="0" width="17.140493921643657" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="432.8384305183528" y="0" width="12.155005445500839" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="444.99343596385364" y="0" width="8.125452565272422" height="8" fill="#800000"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.48414917728786" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="194.48414917728786" y="0" width="153.30850969887854" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="347.7926588761664" y="0" width="38.99973508374297" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="386.79239395990936" y="0" width="24.78662467253407" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="411.5790186324434" y="0" width="17.140493921643657" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="428.7195125540871" y="0" width="12.244370529538163" height="8" fill="#800000"/>
+                    <rect mask="url(#languages-bar)" x="440.96388308362526" y="0" width="12.155005445500839" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="453.1188885291261" y="0" width="6.881111470873929" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
@@ -41,9 +41,9 @@
                                 Text
                             </div>
                             <small>
-                                <div>1.33k lines</div>
-                                <div>146 kB</div>
-                                <div>43.17%</div>
+                                <div>1.27k lines</div>
+                                <div>143 kB</div>
+                                <div>42.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,6 +101,19 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#800000" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Adblock Filter List
+                            </div>
+                            <small>
+                                <div>128 lines</div>
+                                <div>9.04 kB</div>
+                                <div>2.66%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 Shell
@@ -109,19 +122,6 @@
                                 <div>228 lines</div>
                                 <div>8.98 kB</div>
                                 <div>2.64%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#800000" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Adblock Filter List
-                            </div>
-                            <small>
-                                <div>69 lines</div>
-                                <div>6 kB</div>
-                                <div>1.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
